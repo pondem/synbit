@@ -1,15 +1,44 @@
-HECO测试网测试币获取完整教程
+如何在SYNBIT抵押HT（暂时只支持HECO测试网络）
 ========================
 
-一、MetaMask（小狐狸）钱包安装和使用
--------------------------------
+1.打开Synbit网站www.synbit.io并点击左上角DEMO进入测试页面
 
-1、建议使用谷歌浏览器进行操作（下载链接：https://www.google.cn/chrome/）；国内需要自备科学上网；
+.. image:: 35.png
 
-2、进入到MetaMask官网 https://metamask.io/ 点击 “Download now”按钮下载Chrome版本的插件。
+2.在测试页面点击连接钱包
 
-.. image:: 1.png
+.. image:: 28.png
 
-3.页面跳转至此，点击“Install MetaMask for Chrome”；
+3.点击创建新金库
 
-.. image:: 2.png
+.. image:: 29.png
+
+4.此处以HT为例，找到HT选项，点击创建
+
+.. image:: 30.png
+
+5.在MINT界面填写想要抵押的HT数量，并点击MINT
+
+.. image:: 31.png
+
+6.在弹出的钱包页面点击确认
+.. image:: 32.png
+
+7.回到浏览器界面，提示转账成功，点击关闭
+.. image:: 33.png
+
+8.稍作等待即可在界面右上角看到成功提示
+.. image:: 34.png
+
+
+注：HCEO测试网络的HT获取请参阅我们发布的另一篇文章《How to get token in HECO test network》
+
+
+
+
+
+
+
+
+
+
