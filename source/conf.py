@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'heco'
-copyright = '2021, heco'
-author = 'heco'
+project = 'synbit'
+copyright = '2021, synbit'
+author = 'synbit'
 
 # The full version, including alpha/beta/rc tags
 release = '1.1'
